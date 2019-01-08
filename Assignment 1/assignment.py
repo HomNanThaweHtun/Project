@@ -1,8 +1,9 @@
 def main():
-    print("Songs To Learn 1.0 - by <Your Name>")
+    print("Songs To Learn 1.0 - by <Your name>")
 
 
-if __name__ == '__main__':
+
+
 
 
     main()
